@@ -76,3 +76,10 @@ p{
     line-height: 21px;
     color: var(--white);
  }
+
+ 
+a:hover{
+    background-color: var(--neon-green);
+    color: var(--white);
+    transition: .4s;
+}
